@@ -1,4 +1,6 @@
 # ing-sw-2021-Fasanella-Maggioni-Manini
+🥳 30/30 🥳
+
 ## Gruppo 08
 
 - ###   10617541    Marco Fasanella ([@marcofasa](https://github.com/marcofasa))<br>marco.fasanella@mail.polimi.it
