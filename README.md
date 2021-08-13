@@ -1,4 +1,10 @@
-# ing-sw-2021-Fasanella-Maggioni-Manini
+# Masters of Renaissance
+
+This repo holds the final project for Politecnico's di Milano "Software Engineering Project" course, that represent 60% of the students' thesis.
+
+The project consisted in implementing the table-top game "Masters of Renaissance" with a client-server architecture, using a MVC pattern.
+
+## Grade
 🥳 30/30 🥳
 
 ## Gruppo 08
