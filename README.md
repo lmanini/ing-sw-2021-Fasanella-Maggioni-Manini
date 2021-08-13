@@ -7,7 +7,7 @@ The project consisted in implementing the table-top game "Masters of Renaissance
 ## Grade
 🥳 30/30 🥳
 
-## Gruppo 08
+## Group 08
 
 - ###   10617541    Marco Fasanella ([@marcofasa](https://github.com/marcofasa))<br>marco.fasanella@mail.polimi.it
 - ###   10610008    Elia Maggioni ([@Eliaxie](https://github.com/Eliaxie))<br>elia.maggioni@mail.polimi.it
